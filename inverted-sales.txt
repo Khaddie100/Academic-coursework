@@ -1,0 +1,6 @@
+Rice: March 1st 2026 , March 2nd 2026 , March 6th 2026 
+Oil: March 1st 2026 , March 3rd 2026 , March 6th 2026 
+Bread: March 2nd 2026 , March 3rd 2026 
+Eggs: March 3rd 2026 , March 5th 2026 , March 6th 2026 
+Chicken: March 4th 2026 
+Lettuce: March 4th 2026 , March 5th 2026 
